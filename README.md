@@ -13,3 +13,4 @@ Task | Question Link | Solution Link
 1192 | [Counting Rooms](https://cses.fi/problemset/task/1192/) | [Solution](https://cses.fi/paste/3e7da5509c4003b0353d35/)
 1193 | [Labyrinth](https://cses.fi/problemset/task/1193/) | [Solution](https://cses.fi/paste/3105a779e810d19e2c65b6/)
 1194 | [Monsters](https://cses.fi/problemset/task/1194/) | [Solution](https://cses.fi/paste/0b77242642b770a7356c17/)
+1755 | [Palindrome Reorder](https://cses.fi/problemset/task/1755/) | [Solution](https://cses.fi/paste/d1038bcaadae518f37988c/)
